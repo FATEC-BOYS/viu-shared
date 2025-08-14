@@ -1,0 +1,26 @@
+# Dependências (muito pesado)
+node_modules/
+
+# Build gerado (será criado automaticamente)
+dist/
+
+# Lock file (opcional)
+package-lock.json
+
+# Variáveis de ambiente
+.env
+
+# Relatórios de teste
+coverage/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos do Windows
+Thumbs.db
